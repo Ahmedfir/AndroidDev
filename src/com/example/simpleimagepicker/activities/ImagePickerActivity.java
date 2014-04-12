@@ -20,7 +20,7 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 import com.example.simpleimagepicker.R;
-import com.exemple.simpleimagepicker.utils.DataUtil;
+import com.example.simpleimagepicker.utils.DataUtil;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.assist.SimpleImageLoadingListener;

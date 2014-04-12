@@ -1,4 +1,4 @@
-package com.exemple.simpleimagepicker.utils;
+package com.example.simpleimagepicker.utils;
 
 import java.util.Collection;
 import java.util.List;
