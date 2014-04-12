@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleImagePicker</string>
+    <string name="ip_start_text_welcome">Click the button to choose a picture</string>
+    <string name="ip_start_button_choose_picture">Choose a picture</string>
+    <string name="ip_start_activity_sd_card_not_available">SD card not found !</string>
+    <string name="ip_image_picker_activity_no_picture_found">No picture found !</string>
+
+</resources>

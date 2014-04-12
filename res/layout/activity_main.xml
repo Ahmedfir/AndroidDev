@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue_light"
+    android:weightSum="5"
+    tools:context="com.example.simpleimagepicker.activities.MainActivity"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/ip_picture_choice_image_view"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="4" 
+        />
+
+    <TextView
+        android:id="@+id/ip_picture_choice_text_view"
+        style="@style/TextButton"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="bottom"
+        android:layout_weight="1"
+        android:keepScreenOn="true"
+        android:text="@string/ip_start_text_welcome" />
+
+</LinearLayout>
